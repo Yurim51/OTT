@@ -1,3 +1,4 @@
+Date: 2022.10.22 - 2022.10.23
 Data: 캐글데이터, < 한글 음식점 리뷰 및 평점> <br>
 https://www.kaggle.com/datasets/ninetyninenewton/kr3-korean-restaurant-reviews-with-ratings
 
